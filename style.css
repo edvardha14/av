@@ -1,0 +1,79 @@
+sedebar-section{
+    border-radius: 3px solid gold;
+    display: inline-block;
+    position:relative;
+    left:30%;
+}
+#b{
+    position:relative;
+    padding-left:370px;
+}
+about-me{
+    display: inline-block; 
+    position:relative;
+    right:70%;
+}
+img {
+    object-position:50% 80%;
+}
+h2,h3{text-align:left;padding-left:25px;
+
+}
+ul{
+    padding-left:42px;
+    color:gold;
+}
+ol,span{padding-left:18px;}
+li{color:orange}
+#Anton{
+    color:white;
+}
+text{color:black;}
+.text_tel{color:ffffff;
+    width:157px;
+    height:48px;
+    top:520px;
+    left:106px;
+    opacity:50%;
+
+}
+h5,h6{Font-family: Montserrat;
+    Font-style: Regular;
+    Font-size: 12px;
+    Line-height: 15px;
+    Line-height: 100%;
+    text-align:left;
+    Vertical-align: Top;
+    color:gray;
+}
+.c_e{
+    width:200px;
+    height:48px;
+    top: 520px;
+    left:80px;
+    Font-family: Montserrat;
+Font-style: Bold;
+Font-size: 14px;
+Line-height: 24px;
+Line-height: 141%;
+text-align: left;
+Vertical-align: Top;
+width:26px;
+size:14px;
+}
+.wjOjn::before {
+    inset: 0px;
+    position: absolute;
+    z-index: 5;
+    display: block;
+    content: "";
+    background: linear-gradient(rgba(74, 74, 82, 0), rgba(74, 74, 82, 0) 50%, rgb(74, 74, 82) 75%, rgb(74, 74, 82));
+    background-image: linear-gradient(rgba(74, 74, 82, 0), rgba(74, 74, 82, 0) 50%, rgb(74, 74, 82) 75%, rgb(74, 74, 82));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
